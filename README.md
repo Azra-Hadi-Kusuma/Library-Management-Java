@@ -7,7 +7,6 @@ A desktop-based Library Management System developed using Java Swing and MySQL. 
 - CRUD operations for books, members, and loan transactions
 - Search functionality for books and members
 - Loan and return tracking with due date management
-- Admin login system (optional)
 - Simple reporting via table views
 - Modular code structure for ease of maintenance
 
